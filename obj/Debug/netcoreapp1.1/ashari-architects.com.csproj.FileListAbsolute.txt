@@ -1,0 +1,8 @@
+/home/arash/Projects/ashari-architects.com/bin/Debug/netcoreapp1.1/ashari-architects.com.deps.json
+/home/arash/Projects/ashari-architects.com/bin/Debug/netcoreapp1.1/ashari-architects.com.runtimeconfig.json
+/home/arash/Projects/ashari-architects.com/bin/Debug/netcoreapp1.1/ashari-architects.com.runtimeconfig.dev.json
+/home/arash/Projects/ashari-architects.com/obj/Debug/netcoreapp1.1/ashari-architects.com.AssemblyInfo.cs
+/home/arash/Projects/ashari-architects.com/bin/Debug/netcoreapp1.1/ashari-architects.com.dll
+/home/arash/Projects/ashari-architects.com/bin/Debug/netcoreapp1.1/ashari-architects.com.pdb
+/home/arash/Projects/ashari-architects.com/obj/Debug/netcoreapp1.1/ashari-architects.com.dll
+/home/arash/Projects/ashari-architects.com/obj/Debug/netcoreapp1.1/ashari-architects.com.pdb
