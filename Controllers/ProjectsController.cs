@@ -20,6 +20,13 @@ namespace ashari_architects.com.Controllers
             return View();
         }
 
+        public IActionResult Cards()
+        {
+            ViewData["Message"] = "Your application description page.";
+
+            return View();
+        }
+
         public IActionResult Contact()
         {
             ViewData["Message"] = "Your contact page.";
