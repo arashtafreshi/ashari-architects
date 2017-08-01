@@ -23,6 +23,7 @@ namespace ashari_architects.com
                 .UseContentRoot(Directory.GetCurrentDirectory())
                 .UseIISIntegration()
                 .UseStartup<Startup>()
+                .UseUrls("http://localhost:5001")
                 .Build();
 
             host.Run();
