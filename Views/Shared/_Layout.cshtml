@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="~/images/2.jpg"/>
     <title>@ViewData["Title"] - Ashari-Architects.com</title>
 
     <environment names="Development">
@@ -18,9 +19,9 @@
         <script src="~/lib/vue/dist/vue.min.js"></script>
     </environment>
 </head>
-<body>
+<body style="background-color: black; color:white">
     
-
+<!--
     <nav>
         <div class="nav-wrapper">
             <a href="#" class="brand-logo">Ashari-Architects.com</a>
@@ -37,9 +38,11 @@
             </ul>
         </div>
     </nav>
+-->
 
-    <div class="container body-content">
+    <div class="container body-content" style="font-family: Arial Narrow">
         @RenderBody()
+        <!--
         <hr />
         <footer>
             <div class="row">
@@ -51,6 +54,7 @@
                 </div>
             </div>
         </footer>
+        -->
     </div>
 
     <environment names="Development">
