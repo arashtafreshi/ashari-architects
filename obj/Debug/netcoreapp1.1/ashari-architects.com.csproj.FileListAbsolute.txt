@@ -14,3 +14,11 @@
 /home/arash/afshin/ashari-architects.com/obj/Debug/netcoreapp1.1/ashari-architects.com.AssemblyInfo.cs
 /home/arash/afshin/ashari-architects.com/obj/Debug/netcoreapp1.1/ashari-architects.com.dll
 /home/arash/afshin/ashari-architects.com/obj/Debug/netcoreapp1.1/ashari-architects.com.pdb
+/home/arash/Projects/GitHub/ashari_architects/ashari-architects/bin/Debug/netcoreapp1.1/ashari-architects.com.deps.json
+/home/arash/Projects/GitHub/ashari_architects/ashari-architects/bin/Debug/netcoreapp1.1/ashari-architects.com.runtimeconfig.json
+/home/arash/Projects/GitHub/ashari_architects/ashari-architects/bin/Debug/netcoreapp1.1/ashari-architects.com.runtimeconfig.dev.json
+/home/arash/Projects/GitHub/ashari_architects/ashari-architects/bin/Debug/netcoreapp1.1/ashari-architects.com.dll
+/home/arash/Projects/GitHub/ashari_architects/ashari-architects/bin/Debug/netcoreapp1.1/ashari-architects.com.pdb
+/home/arash/Projects/GitHub/ashari_architects/ashari-architects/obj/Debug/netcoreapp1.1/ashari-architects.com.AssemblyInfo.cs
+/home/arash/Projects/GitHub/ashari_architects/ashari-architects/obj/Debug/netcoreapp1.1/ashari-architects.com.dll
+/home/arash/Projects/GitHub/ashari_architects/ashari-architects/obj/Debug/netcoreapp1.1/ashari-architects.com.pdb
