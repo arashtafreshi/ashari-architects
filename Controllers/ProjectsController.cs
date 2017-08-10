@@ -26,6 +26,14 @@ namespace ashari_architects.com.Controllers
             List<string> images = new List<string>();
             switch (id)
             {
+                case "the_pause":
+                    ViewData["Message"] = "THE PAUSE";
+                    images.Add("/images/PIC/THE PAUSE   (19).jpg");
+                    images.Add("/images/PIC/THE PAUSE   (16).jpg");
+                    images.Add("/images/PIC/THE PAUSE   (11).jpg");
+                    images.Add("/images/PIC/THE PAUSE   (15).jpg");
+                    images.Add("/images/PIC/THE PAUSE   (1).jpg");
+                    break;
                 case "maternal_house":
                     ViewData["Message"] = "MATERNAL HOUSE";
                     images.Add("/images/Maternal - House ( خانه مادری )/Main elevation/008.jpg");
