@@ -1,3 +1,5 @@
+git pull -X theirs
+
 dotnet restore
 dotnet publish
 
